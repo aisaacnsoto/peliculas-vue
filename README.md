@@ -22,3 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+"Buscador de pel¡culas con VueJs usando la api de OpenMovieDatabase" 
